@@ -1,0 +1,12 @@
+/bootstrap/compiled.php
+/vendor
+composer.phar
+backup_composer.lock
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
+routes_include.php
+/bootstrap/start.php
+.htaccess
+.htpasswd
